@@ -5,3 +5,8 @@
 .DS_Store
 /build
 /captures
+
+
+# idea project files
+.idea/
+.idea/.name
